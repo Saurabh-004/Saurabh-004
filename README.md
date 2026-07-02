@@ -19,7 +19,6 @@
 - 🔭 Currently building end-to-end ML systems that actually get deployed, not just notebooks that die in `main.ipynb`
 - 🌱 Deep-diving into GRUs, NLP architectures, and text generation
 - 🎯 Actively looking for **AI/ML internships & entry-level roles**
-- 🎤 When I'm not training models: lead vocalist in an award-winning college band, 2x inter-college chess champion, and I sketch/dance/shoot photos on the side
 - ⚡ Fun fact: I'd rather ship a rough MVP today than a "perfect" one next month
 
 ---
@@ -41,7 +40,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[ATS Intelligence Engine v2](https://github.com/saurabh-004/ATS_Intelligence_Engine)** | Resume-JD matching engine, dual endpoints, deployed live | LangChain, HuggingFace Inference API, Docker Compose, Nginx |
+| **ATS Intelligence Engine v2** | Resume-JD matching engine, dual endpoints, deployed live | LangChain, HuggingFace Inference API, Docker Compose, Nginx |
 | **Credit Card Fraud Detection MLOps** | Full fraud detection pipeline w/ threshold-optimized cost savings (63.9% cost reduction) | XGBoost, FastAPI, Docker, MLflow, Prometheus, Grafana, CI/CD |
 | **LeafLens** | Super-resolution GAN upscaling 32×32 → 128×128 with 8-variant TTA | SRGAN, deployed on Render |
 | **SHL Assessment Recommendation Agent** | Hybrid TF-IDF retrieval system with golden trace eval harness | FastAPI, TF-IDF, custom eval framework |
@@ -77,9 +76,6 @@ I'm not here to just collect certificates — I'm here to build things that work
   <a href="mailto:sv9327545@gmail.com"><img src="https://img.shields.io/badge/Let's_Connect-00F7FF?style=for-the-badge&logo=maildotru&logoColor=black"></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saurabh-004&style=flat-square&color=00F7FF" alt="profile views" />
-</p>
 
 <p align="center">
   <i>⭐️ If any of my projects helped you, consider dropping a star — it costs nothing and means a lot.</i>
