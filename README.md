@@ -25,7 +25,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,docker,git,github,githubactions,grafana,prometheus,mlflow,latex,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,docker,git,githubactions,grafana,linux,postman&theme=dark" />
 </p>
 
 **Languages & Core:** Python · SQL · C++  
